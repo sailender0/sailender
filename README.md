@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Name:slayer
+</br>currently on java
+</br>revaite
 <!--
 **sailender0/sailender0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
